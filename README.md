@@ -1,8 +1,9 @@
-Hello, I'm Randeep singh
+####Hello, I'm Randeep singh
 I am a passionate and creative Full Stack Web Developer with a strong foundation in front-end and back-end technologies. My goal is to leverage my skills to build user-friendly and scalable web applications.
 
-Eduction: 
-Bsc(computer science) from india and Msc (business managemnet) from germany
+## Eduction: 
+
+-**Bsc(computer science) from india and Msc (business managemnet) from germany
 
 
 ## 💻 Tech Stack
